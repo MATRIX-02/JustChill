@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JustChill/static/css/main.b4c57c28.css",
+    "main.js": "/JustChill/static/js/main.36bd4b1d.js",
+    "static/js/787.0ec5325e.chunk.js": "/JustChill/static/js/787.0ec5325e.chunk.js",
+    "index.html": "/JustChill/index.html",
+    "main.b4c57c28.css.map": "/JustChill/static/css/main.b4c57c28.css.map",
+    "main.36bd4b1d.js.map": "/JustChill/static/js/main.36bd4b1d.js.map",
+    "787.0ec5325e.chunk.js.map": "/JustChill/static/js/787.0ec5325e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c57c28.css",
+    "static/js/main.36bd4b1d.js"
+  ]
+}
